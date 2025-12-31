@@ -1,0 +1,11 @@
+cv2
+time
+google
+ultralytics
+torch
+numpy
+PIL
+transformers
+IPython
+os
+sys
